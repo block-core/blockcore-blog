@@ -1,1 +1,2 @@
-# blockcore-blog
+# blog
+Blockcore Blog
