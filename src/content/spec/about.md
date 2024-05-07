@@ -11,5 +11,5 @@ Blockcore is a group of developers and engineers working to realize a decentrali
 > - [Website](https://blockcore.net)
 > - [Github](https://github.com/block-core)
 > - [Discord](https://www.blockcore.net/discord)
-> - [X](https://x.com/blockcoredev)  
-> - [Instagram](https://instagram.com/blockcore_net)  
+> - [Twitter](https://x.com/blockcoredev)  
+> - [Telegram](https://t.me/blockcoredotnet)  
