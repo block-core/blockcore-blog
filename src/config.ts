@@ -53,9 +53,9 @@ export const profileConfig: ProfileConfig = {
       url: 'https://twitter.com/blockcoredev',
     },
     {
-      name: 'Instagram',
-      icon: 'fa6-brands:instagram',
-      url: 'https://instagram.com/blockcore_net',
+      name: 'Discord',
+      icon: 'fa6-brands:discord',
+      url: 'https://www.blockcore.net/discord',
     },
     {
       name: 'GitHub',
